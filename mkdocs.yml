@@ -1,8 +1,8 @@
 site_name: Hardware All The Things
 site_description: 'Hardware/IOT Pentesting Wiki'
-site_url: https://techanvconsulting.github.io/HardwareAllTheThings
+site_url: https://techanv-bot.github.io/HardwareAllTheThings
 
-repo_url: https://github.com/techanvconsulting/HardwareAllTheThings
+repo_url: https://github.com/techanv-bot/HardwareAllTheThings
 edit_uri: blob/main/docs/
 
 theme:
