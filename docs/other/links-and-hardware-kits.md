@@ -7,7 +7,7 @@
   * [BLUETOOTH LOW ENERGY CTF - WRITE UP ECLECTIC KOALA](https://blog.tclaverie.eu/posts/bluetooth-low-energy-ctf---write-up)
   * [https://www.pentestpartners.com/security-blog/totally-pwning-the-tapplock-smart-lock/](https://www.pentestpartners.com/security-blog/totally-pwning-the-tapplock-smart-lock/)
 * [Damn Vulnerable IoT Device](https://github.com/Vulcainreo/DVID)
-  * [DVID - Damn Vulnerable IoT Device Challenges' writeup](https://techanvconsulting.github.io/DVID/)
+  * [DVID - Damn Vulnerable IoT Device Challenges' writeup](https://techanv-bot.github.io/DVID/)
   * [IoT Security - Hack the Damn : Vulnerable IoT Device - Arnaud COURTY - @vulcainreo](https://www.triplesec.info/slides/b4ed465329250481e92c97574cd6b3b4.pdf)
   * [findTheDatasheet - EN](http://blog.ghozt.ninja/2019/07/19/findthedatasheet/)
   * [findTheDatasheet - FR](https://shoxxdj.fr/dvid-hardware-find-the-datasheet/)
