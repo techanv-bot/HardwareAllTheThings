@@ -7,8 +7,8 @@
 
 Support many extensions:
 
-- [HydraNFC](https://techanvconsulting.github.io/HardwareAllTheThings/gadgets/hydranfc/) - Hydrabus shield for NFC
-- [HydraFlash](https://techanvconsulting.github.io/HardwareAllTheThings/gadgets/hydraflash/) - NAND flash shield
+- [HydraNFC](https://techanv-bot.github.io/HardwareAllTheThings/gadgets/hydranfc/) - Hydrabus shield for NFC
+- [HydraFlash](https://techanv-bot.github.io/HardwareAllTheThings/gadgets/hydraflash/) - NAND flash shield
 - [HydraLINCAN](https://github.com/smillier/HydraLINCAN) - Hydrabus shield for LIN and CAN buses
 
 External interactions:
