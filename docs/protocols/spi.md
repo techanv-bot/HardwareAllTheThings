@@ -72,8 +72,8 @@ $ ./mkspiffs -u /tmp/data -p 256 -b 8192 -s 1028096 /tmp/spiffs/bin
 Color coded which pins can be connected from the ESP HSPI pins to an SPI flash. The pink interfaces (DQ1 and DQ2) are optional, they are only used in QSPI mode.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/techanvconsulting/HardwareAllTheThings/master/docs/assets/Esp32.png" style="max-width: 400px;"><br />
-  <img src="https://raw.githubusercontent.com/techanvconsulting/HardwareAllTheThings/master/docs/assets/Qspi.png" style="max-width: 400px;">
+  <img src="https://raw.githubusercontent.com/techanv-bot/HardwareAllTheThings/master/docs/assets/Esp32.png" style="max-width: 400px;"><br />
+  <img src="https://raw.githubusercontent.com/techanv-bot/HardwareAllTheThings/master/docs/assets/Qspi.png" style="max-width: 400px;">
 </p>
 
 
